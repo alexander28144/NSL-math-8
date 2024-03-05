@@ -7,4 +7,8 @@
    -[разбор 4.4](https://github.com/alexander28144/NSL-math-8/blob/master/Разбор%204.4%20дроби.pdf)
 * [Занятие 21.02.24: Проценты и пропорции](https://github.com/alexander28144/NSL-math-8/blob/master/Проценты%20и%20пропорции.pdf)
 * [Занятие 28.02.24: Корень n-й степени](https://github.com/alexander28144/NSL-math-8/blob/master/Корни%20n-й%20степени.pdf)
-* [Занятие 6.03.24: Степень дроби](https://github.com/alexander28144/NSL-math-8/blob/master/Корни%20n-й%20степени.pdf)
+* [Занятие 6.03.24: Степень дроби](https://github.com/alexander28144/NSL-math-8/blob/master/6%20марта.pdf)
+
+   -[задача 3](https://github.com/alexander28144/NSL-math-8/blob/master/5.86.jpg)
+
+   -[задача 4](https://github.com/alexander28144/NSL-math-8/blob/master/5.2072.jpg)
