@@ -12,3 +12,4 @@
    -[задача 3](https://github.com/alexander28144/NSL-math-8/blob/master/5.86.jpg)
 
    -[задача 4](https://github.com/alexander28144/NSL-math-8/blob/master/5.2072.jpg)
+   * [Занятие 13.03.24: Степень дроби 2](https://github.com/alexander28144/NSL-math-8/blob/master/13%20марта.pdf)
