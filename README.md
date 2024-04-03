@@ -17,3 +17,4 @@
 * [Занятие 13.03.24: Степень дроби 2](https://github.com/alexander28144/NSL-math-8/blob/master/13%20марта.pdf)
 * [Занятие 20.03.24: Понятие функции](https://github.com/alexander28144/NSL-math-8/blob/master/20%20марта.pdf)
 * [Занятие 27.03.24: Графики функций](https://github.com/alexander28144/NSL-math-8/blob/master/27%20марта.pdf)
+* [Занятие 03.04.24: Уравнение с одной переменной](https://github.com/alexander28144/NSL-math-8/blob/master/27%20марта.pdf)
