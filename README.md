@@ -25,3 +25,5 @@
    [картинка 3](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-58%20(2).jpg);
    [картинка 4](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_15-41-49.jpg);
    [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-57.jpg).
+* [Тренировочный вариант вступительной олимпиады 2016](https://github.com/alexander28144/NSL-math-8/blob/master/10%20апреля.pdf)
+* [Тренировочный вариант вступительной олимпиады 2018](https://github.com/alexander28144/NSL-math-8/blob/master/10%20апреля.pdf)
