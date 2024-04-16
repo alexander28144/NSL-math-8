@@ -32,7 +32,7 @@
    [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-57.jpg);
    [видео](https://youtu.be/KKM0dzgJgf8?si=FU2qFx-44TjIRsQH).
 
-##### Тренировочные варианты
+#### Тренировочные варианты
 
 - [вступительная олимпиада 2016](https://github.com/alexander28144/NSL-math-8/blob/master/8-klass.pdf)
 - [вступительная олимпиада 2018](https://github.com/alexander28144/NSL-math-8/blob/master/ItigovayaMath8class2018.pdf)
