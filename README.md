@@ -33,5 +33,5 @@
 
 ##### Тренировочные варианты
 
-- [вступительной олимпиады 2016](https://github.com/alexander28144/NSL-math-8/blob/master/8-klass.pdf)
-- [вступительной олимпиады 2018](https://github.com/alexander28144/NSL-math-8/blob/master/ItigovayaMath8class2018.pdf)
+- [вступительная олимпиада 2016](https://github.com/alexander28144/NSL-math-8/blob/master/8-klass.pdf)
+- [вступительная олимпиада 2018](https://github.com/alexander28144/NSL-math-8/blob/master/ItigovayaMath8class2018.pdf)
