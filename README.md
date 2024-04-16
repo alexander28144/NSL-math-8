@@ -29,7 +29,8 @@
    [картинка 2](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-58%20(3).jpg);
    [картинка 3](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-58%20(2).jpg);
    [картинка 4](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_15-41-49.jpg);
-   [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-57.jpg).
+   [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-57.jpg);
+   [видео](https://youtu.be/KKM0dzgJgf8?si=FU2qFx-44TjIRsQH).
 
 ##### Тренировочные варианты
 
