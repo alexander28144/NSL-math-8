@@ -1,6 +1,9 @@
 ### Курсы ЕНЛ математика 8 класс
 ![Лого](pic.png)
 * [Плюсница](https://docs.google.com/spreadsheets/d/1SkunoDDipYfGxJJEB_eA0ltSpOO59ZrlBaH-8oLgv30/edit#gid=0)
+
+#### Материалы занятий
+
 * [Занятие 7.02.24: Множества чисел](https://github.com/alexander28144/NSL-math-8/blob/master/ДЗ%20на%2014%20февраля.%20Множества%20и%20числа.pdf)
 * [Занятие 14.02.24: Дроби](https://github.com/alexander28144/NSL-math-8/blob/master/Дроби.pdf)
 
@@ -25,5 +28,8 @@
    [картинка 3](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-58%20(2).jpg);
    [картинка 4](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_15-41-49.jpg);
    [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/photo_2024-04-10_19-31-57.jpg).
-* [Тренировочный вариант вступительной олимпиады 2016](https://github.com/alexander28144/NSL-math-8/blob/master/8-klass.pdf)
-* [Тренировочный вариант вступительной олимпиады 2018](https://github.com/alexander28144/NSL-math-8/blob/master/ItigovayaMath8class2018.pdf)
+
+##### Тренировочные варианты
+
+- [вступительной олимпиады 2016](https://github.com/alexander28144/NSL-math-8/blob/master/8-klass.pdf)
+- [вступительной олимпиады 2018](https://github.com/alexander28144/NSL-math-8/blob/master/ItigovayaMath8class2018.pdf)
