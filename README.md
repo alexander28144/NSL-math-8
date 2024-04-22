@@ -16,9 +16,9 @@
    -[разбор 6(e)](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/разбор%206(е).pdf)
 * [Занятие 6.03.24: Степень дроби](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%205.%206.03.24.pdf)
 
-   -[задача 3](https://github.com/alexander28144/NSL-math-8/blob/master/5.86.jpg)
+   -[задача 3](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/5.86.jpg)
 
-   -[задача 4](https://github.com/alexander28144/NSL-math-8/blob/master/5.2072.jpg)
+   -[задача 4](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/5.2072.jpg)
 * [Занятие 13.03.24: Степень дроби 2](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%206.%2013.03.24.pdf)
 * [Занятие 20.03.24: Понятие функции](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%207.%2020.03.24.pdf)
 * [Занятие 27.03.24: Графики функций](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%208.%2027.03.24.pdf)
