@@ -1,6 +1,6 @@
 ## Курсы ЕНЛ математика 8 класс
 ![Лого](pic.png)
-* [Плюсница](https://docs.google.com/spreadsheets/d/1SkunoDDipYfGxJJEB_eA0ltSpOO59ZrlBaH-8oLgv30/edit#gid=0)
+* [Плюсница](https://docs.google.com/spreadsheets/d/1SkunoDDipYfGxJJEB_eA0ltSpOO59ZrlBaH-8oLgv30/edit#gid=0)(не актуально)
 
 * [Программа курса](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Programma-4-h-mesyachnih-kursov-po-matematike-dlya-uchashchihsya-8-h-klassov.pdf)
 
