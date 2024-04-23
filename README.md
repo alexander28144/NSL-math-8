@@ -32,7 +32,7 @@
    [картинка 5](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/photo_2024-04-10_19-31-58%20(3).jpg);
    [видео](https://youtu.be/KKM0dzgJgf8?si=FU2qFx-44TjIRsQH).
 * [Занятие 17.04.24: Неравенства и метод интервалов](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%2011.%2017.04.24.pdf)
-* [Занятие 24.04.24: Системы уравнений и продолжение метода интервалов](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%2011.%2017.04.24.pdf)
+* [Занятие 24.04.24: Системы уравнений и продолжение метода интервалов](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Занятие%2012.%2024.04.24.pdf)
 
 -- [Все листочки одним файлом](https://github.com/alexander28144/NSL-math-8/blob/master/Материалы%20занятий/Все%20одним.pdf)
 
